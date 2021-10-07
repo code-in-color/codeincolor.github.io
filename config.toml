@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://code-in-color.github.io/codeincolor.github.io/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
